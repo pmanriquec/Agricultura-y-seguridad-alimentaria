@@ -11,3 +11,18 @@ Las preguntas que motivaron el proyecto son las siguientes
 - ¿De qué manera se relaciona la agricultura con la seguridad alimentaria en el Perú?
 - ¿Cuál es el impacto de la agricultura en la seguridad alimentaria del Perú durante los años 2001-2019?
 
+### Métodos utilizados
+------------
+1. Extracción de datos usando API:
+Para ello se utilizaron las siguientes fuentes de datos:
+- Parte 1 - Banco Mundial (2001-2019): https://datos.bancomundial.org/indicator
+- Parte 2 - Banco Central de Reserva del Perú (2007-2020) : https://estadisticas.bcrp.gob.pe/estadisticas/series/
+- Parte 2 - Sistema Integrado de Estadísticas Agrarias - SIEA (2019): https://siea.midagri.gob.pe/portal/siea_bi/index.html
+ 
+2. Procesamiento y limpieza de datos:
+Para ello utilicé Python con la librería Pandas y Requests.
+
+3. Análisis y visualización de datos:
+- Python: con las librerías NumPy, Matplotlib, Seaborn, Pylab. Así mismo para estimar el modelo de regresión lineal, usé Statsmodels y Pandas.
+- Tableau
+- Power Bi
