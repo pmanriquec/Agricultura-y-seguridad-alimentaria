@@ -34,5 +34,9 @@ El código para la Parte 2 está disponible aquí: https://github.com/pmanriquec
 ### Resultados
 A continuación se muestra los resultados más relevantes:
 - Agricultura en el Perú
+
+El PBI peruano ha experimentado un notable crecimiento en los años 2001-2019; sin embargo, el porcentaje del PIB que ha representado el sector agrícola ha decrecido alrededor de 1%.
+![image](https://user-images.githubusercontent.com/92750720/143177815-308dca5c-1a52-432d-9bae-444009b226d4.png)
+
 <img src=https://github.com/pmanriquec/Agricultura-y-seguridad-alimentaria/blob/3c71b4e3218f384580109c44667fe69425768450/PBI%20Agricultura.png />
 
