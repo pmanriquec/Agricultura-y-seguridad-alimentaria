@@ -39,6 +39,6 @@ El PBI peruano ha experimentado un notable crecimiento en los años 2001-2019; s
 <img src=https://github.com/pmanriquec/Agricultura-y-seguridad-alimentaria/blob/3c71b4e3218f384580109c44667fe69425768450/PBI%20Agricultura.png />
 
 La evolución anual del índice de producción de alimentos y animal en el Perú, representa un crecimiento constante desde el 2001 hasta el 2018, teniendo en el 2019 una drástica caída, y siendo la producción de alimentos mayor que la producción animal.
-<img src=https://github.com/pmanriquec/Agricultura-y-seguridad-alimentaria/blob/main/Produccion.png />
+<img src=https://github.com/pmanriquec/Agricultura-y-seguridad-alimentaria/blob/main/correlacion2.png />
 
 
