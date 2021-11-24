@@ -26,3 +26,7 @@ Para ello utilicé Python con la librería Pandas y Requests.
 - Python: con las librerías NumPy, Matplotlib, Seaborn, Pylab. Así mismo para estimar el modelo de regresión lineal, usé Statsmodels y Pandas.
 - Tableau
 - Power Bi
+
+El código para la Parte 1 está disponible aquí: https://github.com/pmanriquec/Agricultura-y-seguridad-alimentaria/blob/9e2063a2bf45888c2b341aa5ceb9ecd7784947d1/PROYECTO%20PARTE%201%20-%20Perla%20Manrique%20Cruz.ipynb
+
+El código para la Parte 2 está disponible aquí: https://github.com/pmanriquec/Agricultura-y-seguridad-alimentaria/blob/main/PROYECTO%20PARTE%202%20-%20Perla%20Manrique%20Cruz.ipynb
