@@ -30,3 +30,9 @@ Para ello utilicé Python con la librería Pandas y Requests.
 El código para la Parte 1 está disponible aquí: https://github.com/pmanriquec/Agricultura-y-seguridad-alimentaria/blob/9e2063a2bf45888c2b341aa5ceb9ecd7784947d1/PROYECTO%20PARTE%201%20-%20Perla%20Manrique%20Cruz.ipynb
 
 El código para la Parte 2 está disponible aquí: https://github.com/pmanriquec/Agricultura-y-seguridad-alimentaria/blob/main/PROYECTO%20PARTE%202%20-%20Perla%20Manrique%20Cruz.ipynb
+
+### Resultados
+A continuación se muestra los resultados más relevantes:
+- Agricultura en el Perú
+<img src=https://github.com/pmanriquec/Agricultura-y-seguridad-alimentaria/blob/3c71b4e3218f384580109c44667fe69425768450/PBI%20Agricultura.png />
+
